@@ -6,7 +6,7 @@
             "shortname": "RadarScope",
             "description": "Nintendo's Radar Scope released in 1980.",
             "author": "ericlewis",
-            "url": "https://github.com/ericlewis/openFPGA-DonkeyKong",
+            "url": "https://github.com/ericlewis/openFPGA-RadarScope",
             "version": "0.0.1",
             "date_release": "2022-11-02"
         },
