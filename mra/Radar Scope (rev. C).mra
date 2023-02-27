@@ -1,9 +1,9 @@
 <misterromdescription>
-	<name>Radar Scope (rev. D)</name>
+	<name>Radar Scope (rev. C)</name>
 	<region></region>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<version>rev. D</version>
+	<version>rev. C</version>
 	<alternative></alternative>
 	<platform></platform>
 	<series></series>
@@ -11,9 +11,9 @@
 	<manufacturer>Nintendo</manufacturer>
 	<category>Shooter - Gallery</category>
 
-	<setname>radarscp</setname>
+	<setname>radarscpc</setname>
 	<parent>radarscp</parent>
-	<mameversion>0229</mameversion>
+	<mameversion>0227</mameversion>
 	<rbf>donkeykong</rbf>
 	<about></about>
 
@@ -37,15 +37,15 @@
 	<rom index="1">
 		<part>03</part>
 	</rom>
-	<rom index="0" md5="none" zip="radarscp.zip">
-		<part crc="80bbcbb3" name="trs2c5fd"></part>
-		<part crc="afa8c49f" name="trs2c5gd"></part>
-		<part crc="e3ad4239" name="trs2c5hd"></part>
-		<part crc="260a3ec4" name="trs2c5kd"></part>
-		<part crc="80bbcbb3" name="trs2c5fd"></part>
-		<part crc="afa8c49f" name="trs2c5gd"></part>
-		<part crc="e3ad4239" name="trs2c5hd"></part>
-		<part crc="260a3ec4" name="trs2c5kd"></part>
+	<rom index="0" md5="4b295564ddde03ac8b9f98475a36caf8" zip="radarscp.zip">
+		<part crc="40949e0d" name="trs2c5fc"></part>
+		<part crc="afa8c49f" name="trs2c5gc"></part>
+		<part crc="51b8263d" name="trs2c5hc"></part>
+		<part crc="1f0101f7" name="trs2c5kc"></part>
+		<part crc="40949e0d" name="trs2c5fc"></part>
+		<part crc="afa8c49f" name="trs2c5gc"></part>
+		<part crc="51b8263d" name="trs2c5hc"></part>
+		<part crc="1f0101f7" name="trs2c5kc"></part>
 		<part crc="f095330e" name="trs2v3gc" repeat="2"></part>
 		<part crc="15a316f0" name="trs2v3hc" repeat="2"></part>
 		<part crc="e0bb0db9" name="trs2v3dc" repeat="2"></part>
